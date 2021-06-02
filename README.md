@@ -33,6 +33,9 @@ just fine as-is on Ubuntu 20.04.
 4) ./quix
 5) Profit!
 ```
+GAMEPLAY SCREENSHOT:
+--------------------
+![quix_gameplay](https://user-images.githubusercontent.com/3632907/120408651-10e36680-c315-11eb-9dd0-21e2ff8582a9.png)
 
 BRIEF
 -----
