@@ -21,7 +21,7 @@
 2021-06-01 UPDATE:
 ------------------
 
-QIX is my favorite '80s arcade game. Been looking for various 
+QIX is my favorite '80s arcade game (https://github.com/jerryrelmore). Been looking for various 
 versions of it over the years that have had source released. 
 QUIX is an interesting ASCII-character-graphics variation. Compiled 
 just fine as-is on Ubuntu 20.04. 
